@@ -9,7 +9,7 @@
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 # liste des éléments nécessaires pour la mise en exposition
 # expérience vécue
-## description de votre expérience
-## ce qui vous a plu
-## aspect que vous ne souhaiteriez pas retenir pour vos projets création
+- description de votre expérience
+- ce qui vous a plu
+- aspect que vous ne souhaiteriez pas retenir pour vos projets création
 
