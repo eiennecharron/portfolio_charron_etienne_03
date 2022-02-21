@@ -1,4 +1,5 @@
 # Titre de l'oeuvre
+Motto
 # nom de l'artiste ou de la firme
 # année de réalisation
 # nom de l'exposition ou de l'évenement
