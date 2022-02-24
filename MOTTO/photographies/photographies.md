@@ -8,4 +8,5 @@
 ![info](photos/image_info.png)
 # autoportrait de vous avec l'oeuvre (photo)
 ![autoportrait](photos/image_filtre.png)
+![autoportrait2](photos/image_eau.png)
 # court video pour documenter les actions de l'oeuvre ou l'interactivité
