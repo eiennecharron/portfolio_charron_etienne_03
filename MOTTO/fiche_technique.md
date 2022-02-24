@@ -26,7 +26,7 @@ site de l'oeuvre interactive: https://www.motto.io/
 - Le téléphone doit être placer a la vertical et non a l'horizontal sinon l'histoire ne commencera pas.
 - Il y a des nombres en bas a gauche qui nous indique où nous sommes rendu dans le chapitre.
 - Le menu est accessible grace au menu hamburger en bas a gauche.
-- dans le menu.
+- dans le menu:
 1. Changer de chapitre. 
 2. Changer la langue.
 3. Partager le site.
