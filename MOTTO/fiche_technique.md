@@ -1,10 +1,10 @@
 # Titre de l'oeuvre
 Motto
 # nom de l'artiste ou de la firme
--Créeateur: Vincent Morisset
--Auteur: Sean Michael
--Programmeur: Édouard Lanctôt-Benoit
--Monteuse: Caroline Robert
+- Créeateur: Vincent Morisset
+- Auteur: Sean Michael
+- Programmeur: Édouard Lanctôt-Benoit
+- Monteuse: Caroline Robert
 # année de réalisation
 28 mai 2020
 # nom de l'exposition ou de l'évenement
