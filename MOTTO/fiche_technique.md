@@ -28,6 +28,9 @@ site de l'experience interactive: https://www.motto.io/
 - Le site ne fonctionne que sur téléphone.
 - L'experience prend toute l'espace de la page web.
 - L'autorisation de la caméra sur internet est nécessaire a l'experience sinon l'histoire ne commencera pas.
+
+![horizontal](photographies/photos/image_horizontal.png)
+
 - Le téléphone doit être placer a la vertical et non a l'horizontal sinon l'histoire ne commencera pas.
 - Il y a des nombres en bas a gauche qui nous indique où nous sommes rendu dans le chapitre.
 - Le menu est accessible grace au menu hamburger en bas a gauche.
