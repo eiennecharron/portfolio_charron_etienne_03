@@ -51,7 +51,7 @@ Utilisation de:
  - Css
  - Javascript
  - Bootstrap
- - Fonts:
+ - Typographie:
  1. **Crimson Pro (https://fonts.google.com/specimen/Crimson+Pro)**
  2. **Open Sans (https://fonts.google.com/specimen/Open+Sans)**
 # Liste des éléments nécessaires pour la mise en exposition
