@@ -5,5 +5,7 @@
 ![horizontal](photos/image_horizontal.png)
 ![camera](photos/image_camera.png)
 # photographie du cartel ou du panneau explicatif
+![info](![image](photos/image_info)
+
 # autoportrait de vous avec l'oeuvre (photo)
 # court video pour documenter les actions de l'oeuvre ou l'interactivité
