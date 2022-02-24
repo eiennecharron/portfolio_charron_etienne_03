@@ -1,1 +1,1 @@
-# Ce dossier contient les croquis prise 
+# Ce dossier contient les croquis pris
