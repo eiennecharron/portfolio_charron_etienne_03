@@ -45,9 +45,10 @@ utilisation de:
 - Il falait que le site ne fonction que sur téléphone puisqu'il serait possible de rednre le site intéractif grâce a la caméra du téléphone du visiteur
 - Le téléphone doit être mit a la verticale pour donner le meilleur résultat (sinon le site ne marche pas)
 # expérience vécue
-- description de votre expérience
+- description de votre expérience:
 
  j'ai beaucoup aimé mon expérience, l'histoire était bien écrit même qu'a certaint moment de l'histoire je trouvais sa drole alors qu'a d'autre moment c'était plus sérieux et un peu triste. J'avais l'inpression de participer dans l'histoire quand le narrateur me demandais de prendres des photos de moi qui faisait une action comme ouvrire une porte et fermer la lumière.
+ 
 - ce qui vous a plu
 - aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # référence
