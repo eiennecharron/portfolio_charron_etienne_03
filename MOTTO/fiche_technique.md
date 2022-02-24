@@ -1,6 +1,6 @@
 # Titre de l'oeuvre
 **MOTTO**
-# nom de l'artiste ou de la firme
+# om de l'artiste ou de la firme
 - Créeateur: **Vincent Morisset**
 - Auteur: **Sean Michael**
 - Programmeur: **Édouard Lanctôt-Benoit**
@@ -19,6 +19,7 @@ site de l'experience interactive: https://www.motto.io/
 - tu dois prendre des photos durant l'histoire
 - le site met des filtres sur la caméra lorsque tu prend des photo
 - le site prend les photo prisent durant l'experience et les utilise dans son histoire
+- tous les visages des personnes présent dans l'histoire son caché par un rectangle de couleur avec un message desus.
 # explication sur la mise en espace de l'oeuvre ou du dispositif
 - Le site ne fonctionne que sur téléphone.
 - L'experience prend toute l'espace de la page web.
