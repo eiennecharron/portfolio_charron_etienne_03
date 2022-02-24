@@ -18,7 +18,7 @@ site de l'experience interactive: https://www.motto.io/
 - L'hisoitre se déroule en 6 chapitre.
 - Tu dois prendre des photos durant l'histoire.
 - Le site met parfois des filtres sur la caméra lorsque tu prend des photo.
-  
+  ![i
 - Le site prend les photo prisent durant l'experience et les utilise dans son histoire.
 - Tous les visages des personnes présent dans l'histoire son caché par un rectangle de couleur avec un message desus.
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
