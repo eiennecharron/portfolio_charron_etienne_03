@@ -29,7 +29,7 @@ site de l'experience interactive: https://www.motto.io/
 - L'experience prend toute l'espace de la page web.
 - L'autorisation de la caméra sur internet est nécessaire a l'experience sinon l'histoire ne commencera pas.
 
-![camera](![horizontal](photographies/photos/image_camera.png)
+![camera](photographies/photos/image_camera.png)
 
 - Le téléphone doit être placer a la vertical et non a l'horizontal sinon l'histoire ne commencera pas.
 
