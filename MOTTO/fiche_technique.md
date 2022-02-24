@@ -37,6 +37,8 @@ site de l'experience interactive: https://www.motto.io/
 3. **Partager le site.**
 4. **Avoir de l'information sur l'expérience interactive.**
 5. **Retourner sur le site principal de la ONF.**
+
+![image du menu](photographies/photos/image_chapitre.png)
 # Liste des composantes et techniques de l'oeuvre ou du dispositif
 Utilisation de:
  - HTML
