@@ -49,7 +49,7 @@ Utilisation de:
  1. **Crimson Pro (https://fonts.google.com/specimen/Crimson+Pro)**
  2. **Open Sans (https://fonts.google.com/specimen/Open+Sans)**
 # Liste des éléments nécessaires pour la mise en exposition
-- Il falait que le site ne fonction que sur téléphone puisqu'il serait possible de rednre le site intéractif grâce a la caméra du téléphone du visiteur.
+- Il faut que le site ne marche que sur téléphone puisqu'il serait possible de rednre le site intéractif grâce a la caméra du téléphone du visiteur.
 - Le téléphone doit être mit a la verticale pour donner le meilleur résultat (sinon le site ne marche pas).
 # Expérience vécue
 - Description de votre expérience:
