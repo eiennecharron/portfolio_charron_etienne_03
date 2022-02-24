@@ -42,7 +42,6 @@ utilisation de:
  - fonts:
  1. Crimson Pro
  2. Open Sans
- - 
 # liste des éléments nécessaires pour la mise en exposition
 # expérience vécue
 - description de votre expérience
