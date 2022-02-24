@@ -27,11 +27,11 @@ site de l'oeuvre interactive: https://www.motto.io/
 - Il y a des nombres en bas a gauche qui nous indique où nous sommes rendu dans le chapitre.
 - Le menu est accessible grace au menu hamburger en bas a gauche.
 - dans le menu.
-          1. Changer de chapitre. 
-          2. Changer la langue.
-          3. Partager le site.
-          4. Avoir de l'information sur l'expérience interactive.
-          5. Retourner sur le site principal de la ONF
+1. Changer de chapitre. 
+2. Changer la langue.
+3. Partager le site.
+4. Avoir de l'information sur l'expérience interactive.
+5. Retourner sur le site principal de la ONF
 le site au comple
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 # liste des éléments nécessaires pour la mise en exposition
