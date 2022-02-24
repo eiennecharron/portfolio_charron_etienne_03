@@ -20,7 +20,9 @@ site de l'experience interactive: https://www.motto.io/
 - Le site met parfois des filtres sur la caméra lorsque tu prend des photo.
 - Le site prend les photo prisent durant l'experience et les utilise dans son histoire.
 - Tous les visages des personnes présent dans l'histoire son caché par un rectangle de couleur avec un message desus.
+
  ![exemplede personnes avec carré sur le visage](photographies/photos/image_personnes.png)
+ 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 - Le site ne fonctionne que sur téléphone.
 - L'experience prend toute l'espace de la page web.
