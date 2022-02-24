@@ -9,5 +9,5 @@
 # autoportrait de vous avec l'oeuvre (photo)
 ![autoportrait](photos/image_filtre.png)
 ![autoportrait2](photos/image_eau.png)
-![autoportrait3](photos/image_feu.png)
+![autoportrait3](photos/image_feux.png)
 # court video pour documenter les actions de l'oeuvre ou l'interactivité
