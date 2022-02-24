@@ -28,11 +28,10 @@ site de l'oeuvre interactive: https://www.motto.io/
 - Le menu est accessible grace au menu hamburger en bas a gauche.
 - dans le menu il y a des options pour:
 1. **Changer de chapitre.**
-2. **chamger la langue**
+2. **changer la langue**
 3. **Partager le site.**
 4. **Avoir de l'information sur l'expérience interactive.**
 5. **Retourner sur le site principal de la ONF**
-le site au comple
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 utilisation de:
  - HTML
@@ -43,8 +42,11 @@ utilisation de:
  1. **Crimson Pro**
  2. **Open Sans**
 # liste des éléments nécessaires pour la mise en exposition
+- Il falait que le site ne fonction que sur téléphone puisqu'il serait possible de rednre le site intéractif grâce a la caméra du téléphone du visiteur
+- Le téléphone doit être mit a la verticale pour donner le meilleur résultat (sinon le site ne marche pas)
 # expérience vécue
-- description de votre expérience
+- description de votre expériencea
+ j'ai beaucoup aimé mon expérience, l'histoire était bien écrit même qu'a certaint moment de l'histoire je trouvais sa drole alors qu'a d'autre moment c'était plus sérieux et un peu triste. J'avais l'inpression de participer dans l'histoire quand le narrateur me demandais de prendres des photos de moi qui faisait une action comme ouvrire une porte et fermer la lumière.
 - ce qui vous a plu
 - aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # référence
