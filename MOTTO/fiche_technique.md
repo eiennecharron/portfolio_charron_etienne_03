@@ -74,3 +74,4 @@ J'ai aimé que même si le site était restrin a uniquement prendre des photos c
  
 Un petit affaire qui ma déranger c'est que défois il demandais de dessiner quelque chose et il ne spécifiait pas si sa allais prendre une video ou une photo alors je pense que pour mon prochain projet création je vais faire attention d'être très claire si il y a de l'intéractivié pour ne pas que la personne qui visite se sente perdu.
 # référence
+lien vers le Motto:https://www.motto.io/
