@@ -34,7 +34,7 @@ site de l'oeuvre interactive: https://www.motto.io/
 5. Retourner sur le site principal de la ONF
 le site au comple
 # liste des composantes et techniques de l'oeuvre ou du dispositif
-- utilisation de:
+utilisation de:
  1. HTML
  2. css
  3. javascript
