@@ -30,8 +30,8 @@ site de l'oeuvre interactive: https://www.motto.io/
 1. **Changer de chapitre.**
 2. **chamger la langue**
 3. **Partager le site.**
-4. Avoir de l'information sur l'expérience interactive.
-5. Retourner sur le site principal de la ONF
+4. **Avoir de l'information sur l'expérience interactive.**
+5. **Retourner sur le site principal de la ONF**
 le site au comple
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 utilisation de:
