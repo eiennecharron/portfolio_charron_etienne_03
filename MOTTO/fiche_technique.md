@@ -6,7 +6,7 @@
 - Programmeur: **Édouard Lanctôt-Benoit**
 - Monteuse: **Caroline Robert**
 # année de réalisation
-28 mai 2020
+**28 mai 2020**
 # nom de l'exposition ou de l'évenement
 Lien vers les projetds de la ONF: https://www.onf.ca/explorer-tous-les-projets-interactifs/#experience-web
 # lieu de mise en exposition
@@ -27,9 +27,9 @@ site de l'oeuvre interactive: https://www.motto.io/
 - Il y a des nombres en bas a gauche qui nous indique où nous sommes rendu dans le chapitre.
 - Le menu est accessible grace au menu hamburger en bas a gauche.
 - dans le menu il y a des options pour:
-1. Changer de chapitre. 
-2. Changer la langue.
-3. Partager le site.
+1. **Changer de chapitre.**
+2. **chamger la langue**
+3. **Partager le site.**
 4. Avoir de l'information sur l'expérience interactive.
 5. Retourner sur le site principal de la ONF
 le site au comple
@@ -40,8 +40,8 @@ utilisation de:
  - javascript
  - Bootstrap
  - fonts:
- 1. Crimson Pro
- 2. Open Sans
+ 1. **Crimson Pro**
+ 2. **Open Sans**
 # liste des éléments nécessaires pour la mise en exposition
 # expérience vécue
 - description de votre expérience
