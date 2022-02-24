@@ -1,6 +1,7 @@
 # photographie de l'oeuvre ou du dispositif dans son ensemble
 ![photo de l'acceuil](photos/image_bienvenu.png)
 # photographies de composantes de l'oeuvre
+![chapitre](photos/image_chapitre.png)
 # photographies des élément nécessaires a sa mise en espace
 ![horizontal](photos/image_horizontal.png)
 ![camera](photos/image_camera.png)
