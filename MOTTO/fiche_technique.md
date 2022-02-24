@@ -55,5 +55,6 @@ Utilisation de:
 J'ai aimé que même si le site était restrin a uniquement prendre des photos comme interactivité, il y avait de la variété dans ce qu'il demandait de faire mais que défois ils y avait un filtre sur la l'apparail photo. Personnellement mon moment préférer est dans le chapitre 5 quand on est dans la tête de septembre et que quand elle nous parle, notre caméra est allumé avec un filtre comme si on étais dans un rêve ou quelque part imaginaire, sa donnait vraiment l'inpression qu'on venait de changer de monde.
 
 - Aspect que vous ne souhaiteriez pas retenir pour vos projets création
+- 
 Un petit affaire qui ma déranger c'est que défois il demandais de dessiner quelque chose et il ne spécifiait pas si sa allais prendre une video ou une photo alors je pense que pour mon prochain projet création je vais faire attention d'être très claire si il y a de l'intéractivié pour ne pas que la personne qui visite se sente perdu.
 # référence
