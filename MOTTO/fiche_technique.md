@@ -51,6 +51,6 @@ utilisation de:
  
 - ce qui vous a plu
 
-J'ai aimé que même si le site était restrait a uniquement prendre des photos comme interactivité, il y avait de la variété dans ce qu'il demandait de faire mais que défois ils y avait un filtre sur la l'apparail photo. Personnellement mon moment préférer est dans le chapitre 5 quand on est dans la tête de septembre et que quand elle nous parle, notre caméra est allumé avec un filtre comme si on étais dans un rêve ou quelque part imaginaire, sa donne vraiment l'inpression qu'on vien de changer de monde.
+J'ai aimé que même si le site était restrin a uniquement prendre des photos comme interactivité, il y avait de la variété dans ce qu'il demandait de faire mais que défois ils y avait un filtre sur la l'apparail photo. Personnellement mon moment préférer est dans le chapitre 5 quand on est dans la tête de septembre et que quand elle nous parle, notre caméra est allumé avec un filtre comme si on étais dans un rêve ou quelque part imaginaire, sa donnait vraiment l'inpression qu'on venait de changer de monde.
 - aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # référence
