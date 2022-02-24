@@ -1,5 +1,5 @@
 # Titre de l'oeuvre
-Motto
+## Motto
 # nom de l'artiste ou de la firme
 - Créeateur: Vincent Morisset
 - Auteur: Sean Michael
