@@ -35,14 +35,14 @@ site de l'oeuvre interactive: https://www.motto.io/
 le site au comple
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 utilisation de:
- 1. HTML
- 2. css
- 3. javascript
- 4. Bootstrap
- 5. fonts:
- - Crimson Pro
- - Open Sans
- 6.
+ - HTML
+ - css
+ - javascript
+ - Bootstrap
+ - fonts:
+ 1. Crimson Pro
+ 2. Open Sans
+ - 
 # liste des éléments nécessaires pour la mise en exposition
 # expérience vécue
 - description de votre expérience
