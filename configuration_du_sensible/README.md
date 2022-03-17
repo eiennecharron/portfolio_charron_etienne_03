@@ -1,1 +1,1 @@
-# Ce dossier contient mes excwpefsergaerg vécu à *Configuration du sensible*
+# Ce dossier contient l'oeuvre et expérience choisi de *Configuration du sensible*
