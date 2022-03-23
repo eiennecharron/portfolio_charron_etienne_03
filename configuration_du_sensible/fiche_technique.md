@@ -11,7 +11,7 @@
 # date de votre visite
 Jeudi 17 mars 2022
 # description de l'oeuvre ou du dispositif multimédia
-
+une video de de l'horizon du fleuve du Saint-Laurent, afficher 4 fois a la vertical un a coté de l'autre, est afficher sur un grand mur d'environ 4 mètres
 # explication sur la mise en espace de l'oeuvre ou du dispositif
 # liste des composantes et techniques de l'oeuvre ou du dispositif
 # liste des éléments nécessaires pour la mise en exposition
