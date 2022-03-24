@@ -1,6 +1,6 @@
 # Titre de l'oeuvre
 *Le fleuve, 50° 11'53,"N., 66° 4'10" O.*
-![exemple de personnes avec carré sur le visage](photographies/photos/image_personnes.png)
+![exemple de personnes avec carré sur le visage](media/image_le_fleuve_01.jpg)
 # nom de l'artiste ou de la firme
 **Bechard Huden**
 # année de réalisation
