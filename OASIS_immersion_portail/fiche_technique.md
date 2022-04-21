@@ -7,7 +7,9 @@
 - Floralia: **Sabrina Ratté**
 - Migration: **Ruban Mauve** 
 # année de réalisation
-
+- Core: **2020**
+- Floralia: **2021**
+- Migration: 
 # nom de l'exposition ou de l'évenement
 # lieu de mise en exposition
 # date de votre visite
@@ -20,3 +22,5 @@
 - ce qui vous a plu
 - aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # référence
+site de l'oeuvre Core: https://www.am-cb.net/projets/core
+site de l'oeuvre Floralia: http://sabrinaratte.com/FLORALIA-2021
