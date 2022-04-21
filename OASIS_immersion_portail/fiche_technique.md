@@ -1,5 +1,11 @@
-# Titre de l'oeuvre
-# nom de l'artiste ou de la firme
+# Titre des oeuvres
+- Core
+- Floralia
+- Migration
+# nom des artistes ou de la firme
+- Core: Adrien M & Claire B
+- Floralia: Sabrina Ratté
+- Migration: Ruban Mauve 
 # année de réalisation
 # nom de l'exposition ou de l'évenement
 # lieu de mise en exposition
