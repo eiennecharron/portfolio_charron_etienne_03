@@ -27,7 +27,7 @@ Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 proje
 - Floralia: **utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les arbres et les plantes. Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.**
 - Migration: **utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les montagnes et les cristaux. Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.**
 # Liste des éléments nécessaires pour la mise en exposition
-Utilisation de haut-parleurs et de projecteurs.
+Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur et 3 haut-parleurs par murs.
 # Expérience vécue
 - Description de votre expérience
 - Ce qui vous a plu
