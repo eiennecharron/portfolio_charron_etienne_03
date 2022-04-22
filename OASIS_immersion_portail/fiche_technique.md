@@ -24,8 +24,8 @@
 Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 projecteurs et 12 haut-parleurs. Il y 3 gros bancs et des petites roches pour s'assir au centre de la salle.
 # Liste des composantes et techniques de l'oeuvre ou du dispositif
 - Core: 
-- Floralia: utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les arbres et les plantes. Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.
-- Migration: utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les montagnes et les cristaux.Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.
+- Floralia: **utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les arbres et les plantes. Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.**
+- Migration: **utilisation de 3D, le logiciel Maya a probablement été utilisé pour réaliser les montagnes et les cristaux.Le logiciel Da Vinci a probablement été utilisé pour réaliser l'audio du projet.**
 # Liste des éléments nécessaires pour la mise en exposition
 Utilisation de haut-parleurs et de projecteurs.
 # Expérience vécue
