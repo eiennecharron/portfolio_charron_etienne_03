@@ -37,5 +37,6 @@ Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur e
 - Ce qui vous a plu
 - Aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # Référence
+- site vers Oasis immersion: https://oasis.im/a-laffiche/
 - Site de l'oeuvre Core: https://www.am-cb.net/projets/core
 - Site de l'oeuvre Floralia: http://sabrinaratte.com/FLORALIA-2021
