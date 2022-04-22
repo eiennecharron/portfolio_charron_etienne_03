@@ -34,6 +34,7 @@ lien vers les logiciel:
 Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur et 3 haut-parleurs par murs.
 # Expérience vécue
 - Description de votre expérience
+ j'ai trouvé l'expérience très immersive. J'ai trouvé l'oeuvre **Core** très intriguante et diférentes des autres oeuvres puisque c'était uniquement que des points qui bouge. Pour l'oeuvre Floralisa 
 - Ce qui vous a plu
 - Aspect que vous ne souhaiteriez pas retenir pour vos projets création
 # Référence
