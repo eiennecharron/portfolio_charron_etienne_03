@@ -29,7 +29,7 @@ Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 proje
 
 lien vers les logiciel:
 Maya: https://www.autodesk.ca/en/products/maya/overview?mktvar002=3927431%7CSEM%7C%7Bcampaignid%7D%7C%7Badgroupid%7D%7C%7BTargetId%7D&gclsrc=aw.ds&&ef_id=EAIaIQobChMI54qThOSo9wIVM9SzCh2RFAH9EAAYASAAEgIXcvD_BwE:G:s&s_kwcid=AL!11172!3!576638501188!e!!g!!maya!15990115579!133368073620&mkwid=s|pcrid|576638501188|pkw|maya|pmt|e|pdv|c|slid||pgrid|133368073620|ptaid|kwd-40109681|pid|&utm_medium=cpc&utm_source=google&utm_campaign&utm_term=maya&utm_content=s|pcrid|576638501188|pkw|maya|pmt|e|pdv|c|slid||pgrid|133368073620|ptaid|kwd-40109681|&gclid=EAIaIQobChMI54qThOSo9wIVM9SzCh2RFAH9EAAYASAAEgIXcvD_BwE&term=1-YEAR&tab=subscription&plc=MAYA
-Da Vinci Resolve
+DaVinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve/
 # Liste des éléments nécessaires pour la mise en exposition
 Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur et 3 haut-parleurs par murs.
 # Expérience vécue
