@@ -13,7 +13,7 @@
 - Haut-parleur
  ![photo de haut-parleur](image_portail_composantes_haut_parleur.JPG)
 # Photographies des élément nécessaires a sa mise en espace
-
+![photo de haut-parleur](image_portail_salle.JPG) 
 # Photographie du cartel ou du panneau explicatif
 
 # Autoportrait de vous avec l'oeuvre (photo)
