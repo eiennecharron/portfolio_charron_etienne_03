@@ -38,8 +38,9 @@ Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur e
  j'ai trouvé l'expérience très immersive. J'ai trouvé l'oeuvre **Core** très intriguante et diférentes des autres oeuvres puisque c'était uniquement que des points qui bouge. Pour l'oeuvre **Floralisa**, j'ai trouvé l'experience un peu ennuillant puisque ce n'était que des plantes qui tournaieut sur eux même. l'oeuvre **Migration** était très hypnotisante, regarder les montagnes changer de couleurs était très relaxant.
 - Ce qui vous a plu
 
-j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des points est très simple mais j'ai quand même beaucoup aimé les voir bouger a travers les 4 murs en même temps de suivre les bruits. Dans l'oeuvre **Floralisa**, j'ai aimé que les plantes et les arbres était abstrait mais qu'on pouvait quand même comprendre que c'était. Dans l'oeuvre
+j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des points est très simple mais j'ai quand même beaucoup aimé les voir bouger a travers les 4 murs en même temps de suivre les bruits. Dans l'oeuvre **Floralisa**, j'ai aimé que les plantes et les arbres était abstrait mais qu'on pouvait quand même comprendre que c'était. Dans l'oeuvre l'oeuvre **Migration**, j'ai aimé les changement de couleur subtil qu'il y avait dans l'oeuvre, sa variait subtilement ce qu'on voyait.
 - Aspect que vous ne souhaiteriez pas retenir pour vos projets création
+Je pense que j'aurais mit plus d'élément réel dans les salles pour que les visiteurs puissent se promener un peu dans la salle et les pousser inconsciemment a voir les autres mures de la pièce.
 # Référence
 - Site vers Oasis immersion: https://oasis.im/a-laffiche/
 - Site de l'oeuvre Core: https://www.am-cb.net/projets/core
