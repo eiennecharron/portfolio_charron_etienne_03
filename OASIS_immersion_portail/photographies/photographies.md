@@ -20,3 +20,4 @@
 ![photo de moi même avec les oeuvres](image_oasis_portail_selfi.jpg)
 # Court video pour documenter les actions de l'oeuvre ou l'interactivité
 ![photo de moi même avec les oeuvres](video_oasis_portail_salle.mp4)
+[![video de la salle](http://img.youtube.com/vi/ID de votre vidéo ICI/0.jpg)](http://www.youtube.com/watch?v= ID de votre vidéo ICI)
