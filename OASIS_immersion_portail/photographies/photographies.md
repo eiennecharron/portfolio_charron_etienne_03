@@ -1,6 +1,6 @@
 # Photographie de l'oeuvre ou du dispositif dans son ensemble
 - Image de **Core**
-![photo de l'oeuvre core](image_portail_core_.jpg)
+![photo de l'oeuvre core](image_portail_core.jpg)
 
 - Image de **Floralia**
 ![photo de l'oeuvre floralia](image_portail_floralia.jpg)
