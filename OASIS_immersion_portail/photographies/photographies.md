@@ -18,5 +18,3 @@
 ![photo du panneau explicatif](image_oasis_portail_panneau_explicatif.jpeg)
 # Autoportrait de vous avec l'oeuvre (photo)
 ![photo de moi même avec les oeuvres](image_oasis_portail_selfi.jpg)
-# Court video pour documenter les actions de l'oeuvre ou l'interactivité
-![video de la salle](https://youtu.be/P461MU9-fCU)
