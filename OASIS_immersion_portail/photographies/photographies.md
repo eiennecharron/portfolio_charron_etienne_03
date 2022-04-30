@@ -17,5 +17,5 @@
 # Photographie du cartel ou du panneau explicatif
 ![photo du panneau explicatif](image_oasis_portail_panneau_explicatif.jpeg)
 # Autoportrait de vous avec l'oeuvre (photo)
-![photo de moi même avec les oeuvres](image_portail_selfi.jpeg)
+![photo de moi même avec les oeuvres](image_oasis_portail_selfi.jpg)
 # Court video pour documenter les actions de l'oeuvre ou l'interactivité
