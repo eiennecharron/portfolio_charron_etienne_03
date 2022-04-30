@@ -28,3 +28,4 @@ J'ai beaucoup aimé le coté abstrait de l'oeuvre, on ne sais pas vraiment qu'es
 - Aspect que vous ne souhaiteriez pas retenir pour vos projets création
 Je pense que le vide autours de l'oeuvre aurais pu être remplit, l'artiste aurait pu placer un cadre par exemple. Alors je rentient de penser a mettre un décor sur ma prochaine oeuvre.
 # Référence
+- site vers l'oeuvre: https://bechardhudon.com/project/sans-titre-no-title-2021/
