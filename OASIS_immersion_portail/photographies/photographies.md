@@ -19,5 +19,4 @@
 # Autoportrait de vous avec l'oeuvre (photo)
 ![photo de moi même avec les oeuvres](image_oasis_portail_selfi.jpg)
 # Court video pour documenter les actions de l'oeuvre ou l'interactivité
-![photo de moi même avec les oeuvres](video_oasis_portail_salle.mp4)
-![video de la salle](https://youtu.be/P461MU9-fCU)](http://www.youtube.com/watch?v= ID de votre vidéo ICI)
+![video de la salle](https://youtu.be/P461MU9-fCU)
