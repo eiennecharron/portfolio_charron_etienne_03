@@ -1,12 +1,12 @@
 # Photographie de l'oeuvre ou du dispositif dans son ensemble
 - Image de **Core**
-![photo de l'oeuvre core](image_portail_core_.JPG)
+![photo de l'oeuvre core](image_portail_core_.jpg)
 
 - Image de **Floralia**
-![photo de l'oeuvre floralia](image_portail_floralia.JPG)
+![photo de l'oeuvre floralia](image_portail_floralia.jpg)
 
 - Image de **Migration**
-![photo de l'oeuvre migration](image_portail_migration.jpeg)
+![photo de l'oeuvre migration](image_portail_migration.jpg)
 # Photographies de composantes de l'oeuvre
 - Projecteur 
  ![photo de projecteur](image_portail_composante_projecteur.JPG)
