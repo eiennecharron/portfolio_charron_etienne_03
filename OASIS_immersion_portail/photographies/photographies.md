@@ -1,19 +1,21 @@
-# photographie de l'oeuvre ou du dispositif dans son ensemble
-- image de **Core**
+# Photographie de l'oeuvre ou du dispositif dans son ensemble
+- Image de **Core**
 ![photo de l'oeuvre core](image_portail_core_.JPG)
 
-- image de **Floralia**
+- Image de **Floralia**
 ![photo de l'oeuvre floralia](image_portail_floralia.JPG)
 
-- image de **Migration**
+- Image de **Migration**
 ![photo de l'oeuvre migration](image_portail_migration.jpeg)
-# photographies de composantes de l'oeuvre
+# Photographies de composantes de l'oeuvre
+- Projecteur 
  ![photo de projecteur](image_portail_composante_projecteur.JPG)
+- Haut-parleur
  ![photo de haut-parleur](image_portail_composantes_haut_parleur.JPG)
-# photographies des élément nécessaires a sa mise en espace
+# Photographies des élément nécessaires a sa mise en espace
 
-# photographie du cartel ou du panneau explicatif
+# Photographie du cartel ou du panneau explicatif
 
-# autoportrait de vous avec l'oeuvre (photo)
+# Autoportrait de vous avec l'oeuvre (photo)
 
-# court video pour documenter les actions de l'oeuvre ou l'interactivité
+# Court video pour documenter les actions de l'oeuvre ou l'interactivité
