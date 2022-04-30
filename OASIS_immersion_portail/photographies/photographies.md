@@ -2,7 +2,7 @@
 - image de **Core**
 ![photo de l'oeuvre core](image_portail_core_.JPG)
 
-- image de **Floralia
+- image de **Floralia**
 ![photo de l'oeuvre floralia](image_portail_floralia.JPG)
 
 - image de **Migration**
