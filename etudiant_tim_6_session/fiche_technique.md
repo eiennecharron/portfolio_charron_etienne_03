@@ -35,13 +35,7 @@ J'ai aimé le concept qu'au début tout est normal sauf qu'a la fin tout devien 
 Je pense que le décors a une grande influence sur l'histoire puisque sa permet d'emplifier l'immersion des personne intéragissant avec l'oeuvre. Je pense que pour mes prochain projets je vais faire attention a ce qui entoure mon oeuvre pour être sure que les personnes puivent vivre une experience inoubliable.
 
 # Ordre de préférence
-| Chère Sasha               |   |
-|                           |   |
-| L'horloge de l'apocalypse |   |
-| Jeu temporel              |   |
-| Chronaufrage              |   |
-| 3 minutes                 |   |
-| Distortion temporelle     |   |
+
 
 # Référence
 lien vers le site de l'exposition: https://tim-montmorency.com/2022/
