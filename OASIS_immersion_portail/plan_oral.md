@@ -11,10 +11,11 @@
 
 # développement
 ## Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
-- Oasis immersion (salle portail)
-- Core: **Adrien M & Claire B** <----\_______________________________
-- Floralia: **Sabrina Ratté** <------breve présentation des artistes|
-- Migration: **Ruban Mauve**  <-----/_______________________________|
+- Oasis immersion (exposition recharger/unwind, salle portail)
+- Core(2020): **Adrien M & Claire B** <----\
+- Floralia(2021): **Sabrina Ratté** <------breve présentation des artistes
+- Migration(introuvé): **Ruban Mauve**  <------/
+ date visite : 12mars 
 ##  Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
 ## Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion, des gestes à poser, etc)
 ## Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
