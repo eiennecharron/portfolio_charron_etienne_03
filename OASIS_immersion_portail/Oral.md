@@ -45,5 +45,5 @@ j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des
 - Site vers Oasis immersion: https://oasis.im/a-laffiche/
 - Site de l'oeuvre Core: https://www.am-cb.net/projets/core
 - Site de l'oeuvre Floralia: http://sabrinaratte.com/FLORALIA-2021
-- 
+
 # 🥇FIN🥇
