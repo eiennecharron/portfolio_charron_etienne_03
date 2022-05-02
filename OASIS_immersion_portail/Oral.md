@@ -42,8 +42,11 @@ j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des
 
 -bancs plus confortable (coussins)
 # Référence
+## musée
 - Site vers Oasis immersion: https://oasis.im/a-laffiche/
 - Site de l'oeuvre Core: https://www.am-cb.net/projets/core
 - Site de l'oeuvre Floralia: http://sabrinaratte.com/FLORALIA-2021
-
+## artiste
+-site des artistes Adrien M & Claire B: https://www.am-cb.net/
+-site de l'artieste Sabrina Ratté: http://sabrinaratte.com/
 # 🥇FIN🥇
