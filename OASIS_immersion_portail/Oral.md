@@ -31,7 +31,7 @@ Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 proje
 - 12 projecteurs
 - 12 haut-parleurs
 - plusieurs bancs
-- 
+
 # Expérience
 
  j'ai trouvé l'expérience très immersive. J'ai trouvé l'oeuvre **Core** très intriguante et diférentes des autres oeuvres puisque c'était uniquement que des points qui bouge. Pour l'oeuvre **Floralisa**, j'ai trouvé l'experience un peu ennuillant puisque ce n'était que des plantes qui tournaieut sur eux même. l'oeuvre **Migration** était très hypnotisante, regarder les montagnes changer de couleurs était très relaxant.
