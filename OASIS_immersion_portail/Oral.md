@@ -4,9 +4,9 @@
 
 
 # Musé
-- Oasis immersion
-- Recharger / unwind
-- Portail
+- **Oasis immersion**
+- **Recharger / unwind**
+- **Portail**
 - 301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
 - Samedi 12 mars 2022
 # Oeuvres 
