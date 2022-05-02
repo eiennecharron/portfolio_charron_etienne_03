@@ -41,6 +41,9 @@ j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des
 - 👎
 
 -bancs plus confortable (coussins)
+# conclusion
+- séance de méditation 🧘‍♂️
+- inspirant ✨
 # Référence
 ## musée
 - Site vers Oasis immersion: https://oasis.im/a-laffiche/
