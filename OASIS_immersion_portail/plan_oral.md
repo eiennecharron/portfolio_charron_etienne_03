@@ -39,7 +39,8 @@
 1. séance de méditation 🧘‍♂️
 2. inspirant
 ## Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
-- Motto interactivité 👍
-  
+- Portail (immersion) 👍
+- Motto (interactivité) 👍
+
   
   # 🥇FIN🥇
