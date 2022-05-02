@@ -1,8 +1,5 @@
 
 # 👋
-
-
-
 # Musé
 - **Oasis immersion**
 - **Recharger / unwind**
