@@ -1,5 +1,6 @@
 # Titre des oeuvres
-<table><tr><td class="border_l border_r border_t border_b selected" style="text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>4. Chronaufrage</span></p></div></div></td></tr></table>
+| Core | Floralia | Migration |
+|------|----------|-----------|
 # Nom des artistes ou de la firme
 - Core: **Adrien M & Claire B**
 - Floralia: **Sabrina Ratté**
