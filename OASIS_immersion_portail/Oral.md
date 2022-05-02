@@ -26,7 +26,7 @@
 - **Migration**: La vidéo projeté est composé de colline verte qui change de couleur er le mauve et ensuite vers le rouge. Par la suite, les collines se transforment en cristaux vert entrouré d'eau. Des bruits de vent, de téléphone et de respiration accompagnent l'oeuvre.
 ![image de l'oeuvre migration](media/image_migration.jpg)
 
-# Explication sur la mise en espace de l'oeuvre ou du dispositif
+# mise en espace
 Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 projecteurs et 12 haut-parleurs. Il y 3 gros bancs et des petites roches pour s'assir au centre de la salle.
 
 # Liste des éléments nécessaires pour la mise en exposition
