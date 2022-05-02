@@ -35,7 +35,13 @@ J'ai aimé le concept qu'au début tout est normal sauf qu'a la fin tout devien 
 Je pense que le décors a une grande influence sur l'histoire puisque sa permet d'emplifier l'immersion des personne intéragissant avec l'oeuvre. Je pense que pour mes prochain projets je vais faire attention a ce qui entoure mon oeuvre pour être sure que les personnes puivent vivre une experience inoubliable.
 
 # Ordre de préférence
-
+| 1. Chère Sasha               | Après experimentation, j'ai conclus que c'était le mieux réussi. En effet l'experience était très immersive et super intéressante.                                                                                                             |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2. L'horloge de l'apocalypse | J'ai beaucoup aimé l'immersion de l'oeuvre **l'horloge de l'apocalypse** puisque tout les murs autours de nous changaient de décors quand le temps avançait. C'est mon deuxième préférée a cause que selon moi c'est le deuxième mieux réussi. |
+| 3. Jeu temporel              | j'ai trouvé le jeu très amusant a jouer et intéressant. Parce que j'ai eu du plaisir a jouer au jeux, l'oeuvre gagne la 3e place.                                                                                                              |
+| 4. Chronaufrage              | j'ai beaucoup aimé les oeuvres d'arts dans les cadres. Malhereusement, il y avait quelque problèmes avec la détection de mouvement. Donc, l'oeuvre mérite la 4e place.                                                                         |
+| 5. 3 minutes                 | J'ai aimé jouer au ballon chasseur, c'est la partie que j'ai trouvé le plus divertissant. Sinon, j'ai trouvée la 2e partie un peu longue. l'oeuvre mérite donce la 5e place.                                                                   |
+| 6. Distortion temporelle     | Maleureusement, Distortion temporelle est celui que j'ai le moin apprécier. En effet, le décors n'était pas très développer et il n'y avait pas énormément d'intéractivité.                                                                    |
 
 # Référence
 lien vers le site de l'exposition: https://tim-montmorency.com/2022/
