@@ -28,9 +28,9 @@
 
 # mise en espace
 Les oeuvres sont dans une très grande salle composé de 4 murs. Il y a 12 projecteurs et 12 haut-parleurs. Il y 3 gros bancs et des petites roches pour s'assir au centre de la salle.
-
-# Liste des éléments nécessaires pour la mise en exposition
-Une grande salle avec 4 murs, 12 projecteurs et 12 haut-parleurs. 3 projecteur et 3 haut-parleurs par murs.
+- 12 projecteurs
+- 12 haut-parleurs
+- plusieurs bancs
 # Expérience vécue
 - Description de votre expérience
 
