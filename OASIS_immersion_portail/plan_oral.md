@@ -36,10 +36,10 @@
 1. Le fleuve (Configuration du sensible)
 # Conclusion 
 ## Rappel des aspects présentés
-1 séance de méditation 🧘‍♂️
+1. séance de méditation 🧘‍♂️
 2. inspirant
 ## Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
-- 
+- Motto interactivité 👍
   
   
   # 🥇FIN🥇
