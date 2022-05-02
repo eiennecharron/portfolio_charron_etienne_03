@@ -1,23 +1,21 @@
 
 # Musé
 - Oasis immersion
-301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
+- Recharger / unwind
+- Portail
+- 301 rue Saint-Antoine Ouest, Montréal, Québec H2Z 1H5
+- Samedi 12 mars 2022
 # Oeuvres 
 | Core | Floralia | Migration |
 |------|----------|-----------|
-# Nom des artistes ou de la firme
-- Core: **Adrien M & Claire B**
-- Floralia: **Sabrina Ratté**
-- Migration: **Ruban Mauve** 
-# Année de réalisation
-- Core: **2020**
-- Floralia: **2021**
-- Migration:**information non trouvé**
+# Artiste
+- Core: **Adrien M & Claire B** (2020)
+- Floralia: **Sabrina Ratté** (2021)
+- Migration: **Ruban Mauve** (🤷‍♂️)
 # Nom de l'exposition ou de l'évenement
 **Portail**
 
-# Date de votre visite
-**Samedi 12 mars 2022**
+
 # Description de l'oeuvre ou du dispositif multimédia
 - **Core**: La vidéo projeté est composé de plusieurs points blancs qui couvres le murs au complet. Les points blancs bougent et varient leur mouvement. Des bruits de bouche, des tambours, du trangle, de la guitar, des maracasses et des bruits d'eau se font entendre durant la vidéo
 - **Floralia**: La vidéo projeté est composé de plantes et arbres déformer et abstrait qui tourne sur eux mêmes dans un cubes de verre. des grincement, des craquements, du vent, des oiseaux et des insects se font entendres durant la vidéo.
