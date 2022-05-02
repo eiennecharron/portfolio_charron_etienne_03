@@ -18,4 +18,4 @@
 ## Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
   
   
-  #F FIN 🥇
+  # 🥇FIN🥇
