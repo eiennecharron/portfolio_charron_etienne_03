@@ -48,5 +48,5 @@ j'ai aimé l'originalité dans l'oeuvre **Core**, l'utilisation de seulement des
 - Site de l'oeuvre Floralia: http://sabrinaratte.com/FLORALIA-2021
 ## artiste
 -site des artistes Adrien M & Claire B: https://www.am-cb.net/
--site de l'artieste Sabrina Ratté: http://sabrinaratte.com/
+-site de l'artiste Sabrina Ratté: http://sabrinaratte.com/
 # 🥇FIN🥇
