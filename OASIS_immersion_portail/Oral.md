@@ -1,7 +1,6 @@
 
 # 👋
-1. relaxant
-2. divertifier auditivement et visuellement 👁️
+
 # Musé
 - **Oasis immersion**
 - **Recharger / unwind**
